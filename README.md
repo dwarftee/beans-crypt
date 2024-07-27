@@ -1,1 +1,1 @@
-a basic encryption in rust that changes all words to the word bean
+a basic encryption that changes all words to the word bean

@@ -1,3 +1,3 @@
 all:
-	cargo build
-	./target/debug/beans
+	g++ main.cpp -o main
+	./main

@@ -1,3 +1,3 @@
 all:
-	rustc main.rs
-	./main
+	cargo build
+	./target/debug/beans
